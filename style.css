@@ -11,3 +11,7 @@ h5 {
  #card-title{
     font-weight: bold;
 }
+
+#five-day-container{
+    display: flex;
+}
