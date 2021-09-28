@@ -8,19 +8,19 @@ h5 {
   font-weight: bold;
 }
 
- .card-title{
-    font-weight: bold;
+.card-title {
+  font-weight: bold;
 }
 
-.five-day-container{
-    display: flex;
+.five-day-container {
+  display: flex;
 }
 
 #description {
-    text-transform: capitalize;
+  text-transform: capitalize;
 }
 
 .flex {
-    display: flex;
-    align-items: center;
+  display: flex;
+  align-items: center;
 }
